@@ -3,3 +3,5 @@ in class activity
 
 git checkout -b develop
 
+added scripts in main build stage
+
